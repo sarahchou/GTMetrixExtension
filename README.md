@@ -1,2 +1,2 @@
 # GTMetrixExtension
-GTMetrix Extension
+GTMetrix Chrome Extension that checks the speed of a website. 
